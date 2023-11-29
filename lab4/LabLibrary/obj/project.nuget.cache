@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdFelBxy3K1GCQPdktNRvj+79hGDiGpQywrJgRHsrW0HrUdj3Z5E/g4hxXzai62gQBGMQoh7uKMKeJBEnPVRbQ==",
+  "success": true,
+  "projectFilePath": "E:\\Labs\\OOP\\OopFinalLib-master\\LabLibrary\\LabLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snapp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\snapp\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

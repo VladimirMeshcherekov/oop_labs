@@ -1,0 +1,6 @@
+C:\Users\hugeMordor\Documents\CS_LAB\LabLibrary\bin\Debug\LabLibrary.dll
+C:\Users\hugeMordor\Documents\CS_LAB\LabLibrary\bin\Debug\LabLibrary.pdb
+C:\Users\hugeMordor\Documents\CS_LAB\LabLibrary\obj\Debug\LabLibrary.csproj.AssemblyReference.cache
+C:\Users\hugeMordor\Documents\CS_LAB\LabLibrary\obj\Debug\LabLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hugeMordor\Documents\CS_LAB\LabLibrary\obj\Debug\LabLibrary.dll
+C:\Users\hugeMordor\Documents\CS_LAB\LabLibrary\obj\Debug\LabLibrary.pdb
